@@ -1,4 +1,4 @@
-import Demo from "@/component/Demo";
+import Demo from "@/component/Login";
 import Editor from "@/component/Editor";
 import Test from "@/component/Test";
 import Image from "next/image";
